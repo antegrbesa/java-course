@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Zbrajanje</h1>
+
+</body>
+</html>
+
+<table>
+<TABLE  BORDER="5">
+  <tr>
+    <td>{$= "a=" "a" 0 @tparamGet$}</td>
+  </tr>
+  <tr>
+    <td>{$= "b=" "b" 0 @tparamGet $}</td>
+  </tr>
+  <tr>
+    <td>{$= "a+b=" "zbroj" 0 @tparamGet $}</td>
+  </tr>
+</table>
+
