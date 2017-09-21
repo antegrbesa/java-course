@@ -1,0 +1,2 @@
+1	Vote for your favorite band	From given bands, which one do you like the most? Vote for them!
+2	Vote for your favorite NBA team	From given NBA teams, which one is your favorite? Vote for them!

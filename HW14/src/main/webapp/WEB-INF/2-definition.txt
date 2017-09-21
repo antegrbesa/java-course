@@ -1,0 +1,6 @@
+1	Chicago Bulls	http://www.nba.com/bulls/
+2	Boston Celtics	http://www.nba.com/celtics/
+3	LA Lakers	http://www.nba.com/lakers/
+4	Cleveland Cavaliers	http://www.nba.com/cavaliers/
+5	San Antonio Spurs	http://www.nba.com/spurs/
+6	Golden State Warriors	http://www.nba.com/warriors/
